@@ -12,15 +12,28 @@ body {
 }
 
 .purple_rectangle {
-
+    height: 175px;
+    width: 40px;
+    background-color: rebeccapurple;
+    display: inline-block;
+    margin: 60px 0px 10px 10px;
 }
 
 .green_rectangle {
-
+    height: 220px;
+    width: 400px;
+    background-color: green;
+    display: inline-block;
+    margin: 10px 0px 10px 40px;
 }
 
 .circle {
-
+    height: 220px;
+    width: 220px;
+    background-color: lightblue;
+    display: inline-block;
+    margin: 10px 0px 10px 50px;
+    border-radius: 50%;
 }
 
 .div2 {
@@ -32,7 +45,12 @@ body {
 }
 
 .yellow_rectangle {
-
+    height: 180px;
+    width: 95%;
+    background-color: tan;
+    display: inline-block;
+    margin: 30px 20px;
+    box-shadow: 5px, 10px #888888;
 }
 
 .div3 {
@@ -46,5 +64,9 @@ body {
 }
 
 h3 {
-    
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 10px;
+    color: navy;
+    font-family: ;
 }
