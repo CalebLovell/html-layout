@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.div1 {
+    height: 250px;
+    width: 95vw;
+    border: solid;
+    display: absolute;
+    margin: 15px auto 15px auto;
+}
+
+.purple_rectangle {
+
+}
+
+.green_rectangle {
+
+}
+
+.circle {
+
+}
+
+.div2 {
+    height: 250px;
+    width: 95vw;
+    border: dotted;
+    display: absolute;
+    margin: 15px auto 0px auto;
+}
+
+.yellow_rectangle {
+
+}
+
+.div3 {
+    height: 250px;
+    width: 55vw;
+    border: solid;
+    border-width: 1px;
+    border-color: lightgray;
+    display: absolute;
+    margin: 15px auto 0px auto;
+}
+
+h3 {
+    
+}
