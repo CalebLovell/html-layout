@@ -50,7 +50,7 @@ body {
     background-color: tan;
     display: inline-block;
     margin: 30px 20px;
-    box-shadow: 5px, 10px #888888;
+    box-shadow: 5px 5px 5px #888888;
 }
 
 .div3 {
@@ -59,6 +59,7 @@ body {
     border: solid;
     border-width: 1px;
     border-color: lightgray;
+    box-shadow: 1px 1px 1px #888888;
     display: absolute;
     margin: 15px auto 0px auto;
 }
@@ -68,5 +69,6 @@ h3 {
     font-size: 40px;
     letter-spacing: 10px;
     color: navy;
-    font-family: ;
+    font-family: "times new roman";
+    margin: 80px auto;
 }
